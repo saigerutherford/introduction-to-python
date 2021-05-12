@@ -3,7 +3,7 @@
 
 Tutorial presented at [ISMRM 2021](https://www.ismrm.org/21m/) by [Saige Rutherford](https://www.beingsaige.com/).
 
-
+This tutorial was inspired by [Tal Yarkoni's teaching materials](https://github.com/neurohackademy/introduction-to-python), and has been adapted for this course. Tal's talk is available on [Youtube](https://www.youtube.com/watch?v=d1QZU-ZPOm0) and is 1 hour long if you are looking for a more in-depth walk through video of the code.
 
 We will be running all of our code in Google Colab python notebooks. These are essentially python Jupyter notebooks run in the :cloud: *cloud* :cloud:. 
 Running our code using Colab will save us from dealing with python library installation and virtual environment setup. The tutorial contains [links](https://python.land/installing-python) for how to install python on your own computer, and if you prefer to do that rather than use Google Colab, please feel free to do so.  
